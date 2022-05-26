@@ -1,0 +1,49 @@
+{
+  "_from": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+  "_id": "pomelo-node-client-websocket@0.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/pomelo-node-client-websocket",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "pomelo-node-client-websocket@git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+    "name": "pomelo-node-client-websocket",
+    "escapedName": "pomelo-node-client-websocket",
+    "rawSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+    "saveSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+    "fetchSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git#0f9f996e020c5627aa7b81d5af6c83b77d92a1d2",
+  "_spec": "pomelo-node-client-websocket@git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket-updated.git",
+  "_where": "/home/digvijay/Digvijay/local/pokersd_gameserver",
+  "author": {
+    "name": "lessu"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/node": "10.12.21",
+    "pomelo-protobuf": "git://192.168.2.100/Server/NodeModules/cs-pomelo-protobuf-updated.git",
+    "pomelo-protocol": "^0.1.0",
+    "ws": "6.1.3"
+  },
+  "deprecated": false,
+  "description": "pomelo client for nodejs using websocket",
+  "keywords": [
+    "pomelo",
+    "client",
+    "websocket"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "pomelo-node-client-websocket",
+  "repository": {
+    "type": "git",
+    "url": "git://192.168.2.100/Server/NodeModules/cs-pomelo-node-client-websocket.git"
+  },
+  "version": "0.1.0"
+}

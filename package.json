@@ -1,0 +1,25 @@
+{
+  "name": "ludo_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalcreatiosoft/ludo_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalcreatiosoft/ludo_backend/issues"
+  },
+  "homepage": "https://github.com/vishalcreatiosoft/ludo_backend#readme"
+}

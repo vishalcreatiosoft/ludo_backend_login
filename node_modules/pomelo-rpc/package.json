@@ -1,0 +1,62 @@
+{
+  "_from": "git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+  "_id": "pomelo-rpc@1.0.7",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/pomelo-rpc",
+  "_phantomChildren": {
+    "bl": "1.2.2",
+    "duplexify": "3.7.1",
+    "inherits": "2.0.3",
+    "lodash": "4.17.11",
+    "process-nextick-args": "2.0.1",
+    "safe-buffer": "5.1.2",
+    "through2": "2.0.5"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "pomelo-rpc@git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+    "name": "pomelo-rpc",
+    "escapedName": "pomelo-rpc",
+    "rawSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+    "saveSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+    "fetchSpec": "git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/pomelo"
+  ],
+  "_resolved": "git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git#1517ec247960db10ccb13ba8a5de7779f3fb8644",
+  "_spec": "pomelo-rpc@git://192.168.2.100/Server/NodeModules/cs-pomelo-rpc-updated.git",
+  "_where": "/home/digvijay/Digvijay/local/pokersd_gameserver/node_modules/pomelo",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "* Yongchang Zhou",
+      "email": "changchang005@gmail.com"
+    },
+    {
+      "name": "* fantasyni",
+      "email": "fantasyni@163.com"
+    }
+  ],
+  "dependencies": {
+    "async": "2.6.1",
+    "bearcat-buffer": "0.1.x",
+    "crc": "3.8.0",
+    "mqtt-connection": "4.0.0",
+    "node-uuid": "1.4.0",
+    "pomelo-loader": "0.0.6",
+    "pomelo-logger": "0.1.7",
+    "stream-pkg": "0.0.5"
+  },
+  "deprecated": false,
+  "description": "# Modified by Creatiosoft",
+  "devDependencies": {
+    "mocha": ">=0.0.1",
+    "should": ">=0.0.1"
+  },
+  "modiefiedBy": "Creatiosoft",
+  "name": "pomelo-rpc",
+  "version": "1.0.7"
+}
